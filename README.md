@@ -1,3 +1,29 @@
+
+Design and implement an AI-powered rooftop analysis tool that uses satellite imagery to assess solar installation potential. This project evaluates your ability to integrate multiple AI services while solving a critical solar industry challenge.
+
+Project Goal
+Create an intelligent system that analyses any rooftop from satellite imagery and provides accurate solar potential assessments, installation recommendations, and ROI estimates for both homeowners and solar professionals.
+
+Required Knowledge Areas
+•	Solar Panel Technology: Types, efficiency, specifications
+•	Installation Processes: Mounting, electrical, permits
+•	Maintenance Requirements: Monitoring, cleaning, warranties
+•	Cost & ROI Analysis: Pricing, incentives, payback periods
+•	Industry Regulations: Codes, net metering, safety standards
+•	Market Trends: Technology advances, adoption rates
+
+Technical Assessment Areas (80%)
+AI Implementation (40%)
+•	LLM Integration: Vision AI for image analysis
+•	Prompt Engineering: Structured output extraction
+•	Context Management: Multi-source data handling
+•	Response Accuracy: Validation and confidence scoring
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/3942f137-a479-472c-b1aa-a9764e643706)
 Project Directory Structure (newproject/)
 /Users/arushisonal/Downloads/newproject
