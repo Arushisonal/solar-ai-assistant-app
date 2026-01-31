@@ -1,3 +1,4 @@
+https://drive.google.com/drive/folders/1XN9CJZwa2KgxZwY6WMzybbZB5Hub3yNL?usp=sharing
 
 Design and implement an AI-powered rooftop analysis tool that uses satellite imagery to assess solar installation potential. This project evaluates your ability to integrate multiple AI services while solving a critical solar industry challenge.
 
